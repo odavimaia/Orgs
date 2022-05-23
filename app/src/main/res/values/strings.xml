@@ -7,4 +7,5 @@
     <string name="descricao">Descrição</string>
     <string name="valor">Valor</string>
     <string name="salvar">Salvar</string>
+    <string name="descricao_botao_adiciona_produto">Botão para adicionar um produto na lista</string>
 </resources>
